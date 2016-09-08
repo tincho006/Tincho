@@ -1,0 +1,1524 @@
+Xsession: X session started for rodriguezlarreta at jue sep  8 09:47:49 ART 2016
+localuser:rodriguezlarreta being added to access control list
+pci id for fd 14: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+Loading stage  "initial" 290
+startkde: Starting up...
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+kdeinit5: preparing to launch 'libkdeinit5_klauncher'
+kdeinit5: Launched KLauncher, pid = 1315, result = 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit5: opened connection to :0
+kdeinit5: preparing to launch 'libkdeinit5_kded5'
+kdeinit5: Launched KDED, pid = 1317 result = 0
+kdeinit5: preparing to launch 'libkdeinit5_kcminit_startup'
+kdeinit5: Launched 'kcminit_startup', pid = 1318 result = 0
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_access" :  "kcminit_access"
+kf5.kded: found kded module "printmanager" by prepending 'kded_' to the library path, please fix your metadata.
+kf5.kded: found kded module "accounts" by prepending 'kded_' to the library path, please fix your metadata.
+Loaded KAccounts plugin "/usr/lib/i386-linux-gnu/qt5/plugins/kaccounts/daemonplugins/kaccounts_ktp_plugin.so"
+kdeinit5: Got EXEC_NEW '/usr/bin/kaccess' from launcher.
+kdeinit5: preparing to launch '/usr/bin/kaccess'
+kdeinit5: Got EXEC_NEW '/usr/lib/i386-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/i386-linux-gnu/libexec/kf5/kconf_update'
+Initializing  "kded_touchpad" :  "kcminit_touchpad"
+Initializing  "kcm_kgamma" :  "kcminit_kgamma"
+Initializing  "kcm_input" :  "kcminit_mouse"
+Initializing  "kcm_style" :  "kcminit_style"
+QCoreApplication::arguments: Please instantiate the QApplication object first
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/rodriguezlarreta/.gtkrc:/home/rodriguezlarreta/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/rodriguezlarreta/.gtkrc-2.0:/home/rodriguezlarreta/.config/gtkrc-2.0' from launcher.
+kdeinit5: PID 1318 terminated.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kdeinit5: PID 1324 terminated.
+kdeinit5: PID 1325 terminated.
+kdeinit5: Got KWRAPPER '/usr/bin/ksmserver' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/ksmserver'
+powerdevil: Backend loaded, loading core
+powerdevil: Core loaded, initializing backend
+powerdevil: No outputs have backlight property
+powerdevil: Falling back to helper to get brightness
+Qt: Session management error: networkIdsList argument is NULL
+Configuring Lock Action
+pm.kded: unable to register service to dbus
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.15'
+detected kglobalaccel restarting, re-registering all shortcut keys
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.15'
+detected kglobalaccel restarting, re-registering all shortcut keys
+XSync seems available and ready
+XSync Inited
+Supported, init completed
+Setting the name of  0x96689c0  to  "org.kde.ActivityManager.Resources.Scoring"
+Creating directory:  "/home/rodriguezlarreta/.local/share/kactivitymanagerd/resources/"
+Created alarm 46137345
+ksmserver: "/run/user/1000/KSMserver"
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/Cambiemos:@/tmp/.ICE-unix/1334,unix/Cambiemos:/tmp/.ICE-unix/1334' from launcher.
+ksmserver: KSMServer: SetAProc_loc: conn  0 , prot= local , file= @/tmp/.ICE-unix/1334
+ksmserver: KSMServer: SetAProc_loc: conn  1 , prot= unix , file= /tmp/.ICE-unix/1334
+ksmserver: KSMServer::restoreSession  "saved at previous logout"
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.15'
+detected kglobalaccel restarting, re-registering all shortcut keys
+Session path: "/org/freedesktop/login1/session/_32"
+KActivities: Database connection:  "kactivities_db_resources_3014150144_readwrite" 
+    query_only:          QVariant(qlonglong, 0) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 1)
+Setting the name of  0x968a560  to  "org.kde.ActivityManager.ActivityTemplates"
+Setting the name of  0x9697e78  to  "org.kde.ActivityManager.RunApplication"
+Service started, version: 6.2.0
+kscreen.kded: Config KScreen::Config(0x9c85490) is ready
+kdeinit5: Got EXEC_NEW '/usr/bin/baloo_file' from launcher.
+kdeinit5: preparing to launch '/usr/bin/baloo_file'
+kscreen.kded: PowerDevil SuspendSession action not available!
+kscreen.kded: "The name org.kde.Solid.PowerManagement was not provided by any .service files"
+kscreen.kded: Applying config
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Applying known config "dce7fa9c45163416602a7a5710206214"
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Finding a mode for QSize(1360, 663) @ 59.9997
+kscreen.kded: 	Found:  "64"   QSize(1360, 663) @ 59.9997
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(NULL) ( "none" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: doApplyConfig()
+powerdevil: org.kde.powerdevil.backlighthelper.brightnessmax failed
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Requesting missing EDID for outputs (63)
+powerdevil: current screen brightness value:  0
+powerdevil: Backend is ready, KDE Power Management system initialized
+XSync seems available and ready
+XSync Inited
+Supported, init completed
+powerdevil: Session path: "/org/freedesktop/login1/session/_32"
+powerdevil: ACTIVE SESSION PATH: "/org/freedesktop/login1/session/_32"
+powerdevil: Current session is now active
+powerdevil: fd passing available: true
+powerdevil: systemd powersave events handling inhibited, descriptor: 26
+powerdevil: systemd support initialized
+powerdevil: Got a valid offer for  "DPMSControl"
+powerdevil: Core is ready, registering various services on the bus...
+powerdevil: Can't contact ck
+powerdevil: We are now into activity  "f7ae0140-5cde-4e1e-9315-5c8f9da33b84"
+powerdevil: () ()
+powerdevil: () ()
+powerdevil: No batteries found, loading AC
+powerdevil: Activity is not forcing a profile
+powerdevil: 
+powerdevil: Loading timeouts with  300000
+Created alarm 31457281
+Created alarm 31457284
+Created alarm 31457285
+Created alarm 31457286
+Created alarm 31457287
+powerdevil: Handle button events action could not check for screen configuration
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+Starting accounts migration...
+kdeinit5: Got EXEC_NEW 'lib/i386-linux-gnu/libexec/kdeconnectd' from launcher.
+kdeinit5: preparing to launch 'libkdeinit5_lib/i386-linux-gnu/libexec/kdeconnectd'
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+No se pudo abrir la biblioteca «/usr/lib/i386-linux-gnu/libkdeinit5_lib/i386-linux-gnu/libexec/kdeconnectd».
+Cannot load library /usr/lib/i386-linux-gnu/libkdeinit5_lib/i386-linux-gnu/libexec/kdeconnectd: (/usr/lib/i386-linux-gnu/libkdeinit5_lib/i386-linux-gnu/libexec/libkdeconnectd.so: no se puede abrir el archivo del objeto compartido: No existe el archivo o el directorio)
+kdeinit5: PID 1382 terminated.
+kdeinit5: Got EXEC_NEW '/usr/bin/krunner' from launcher.
+kdeinit5: preparing to launch '/usr/bin/krunner'
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Requesting missing EDID for outputs (63)
+kscreen.kded: Change detected
+completeShutdownOrCheckpoint called
+completeShutdownOrCheckpoint called
+kdeinit5: Got EXEC_NEW '/usr/bin/plasmashell' from launcher.
+kdeinit5: preparing to launch '/usr/bin/plasmashell'
+pci id for fd 8: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+kdeinit5: Got EXEC_NEW '/usr/lib/i386-linux-gnu/libexec/polkit-kde-authentication-agent-1' from launcher.
+kdeinit5: preparing to launch '/usr/lib/i386-linux-gnu/libexec/polkit-kde-authentication-agent-1'
+Trying to use rootObject before initialization is completed, whilst using setInitializationDelayed. Forcing completion
+completeShutdownOrCheckpoint called
+New PolkitAgentListener  0x80bec40
+Adding new listener  PolkitQt1::Agent::Listener(0x80d8700) for  0x80bec40
+Listener online
+Authentication agent result: true
+Invalid service name "/org/kde/polkit-kde-authentication-agent-1" using: "/org/kde/polkitkdeauthenticationagent1"
+kdeinit5: Got EXEC_NEW '/usr/bin/xembedsniproxy' from launcher.
+kdeinit5: preparing to launch '/usr/bin/xembedsniproxy'
+completeShutdownOrCheckpoint called
+ksmserver: Autostart 0 done
+kcminit not running? If we are running with mobile profile or in another platform other than X11 this is normal.
+ksmserver: Kcminit phase 1 done
+kdeinit5: Got EXEC_NEW '/usr/bin/start-pulseaudio-x11' from launcher.
+kdeinit5: preparing to launch '/usr/bin/start-pulseaudio-x11'
+ksmserver: Autostart 1 done
+kdeinit5: Got EXEC_NEW '/usr/lib/at-spi2-core/at-spi-bus-launcher' from launcher.
+kdeinit5: preparing to launch '/usr/lib/at-spi2-core/at-spi-bus-launcher'
+kde.xembedsniproxy: starting
+kdeinit5: Got EXEC_NEW '/usr/bin/korgac' from launcher.
+kdeinit5: preparing to launch '/usr/bin/korgac'
+kde.xembedsniproxy: Manager selection claimed
+kdeinit5: PID 1401 terminated.
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+Failed to open layout memory xml file for reading "/home/rodriguezlarreta/.local/share/kded5/keyboard/session/layout_memory.xml" error: 5
+pci id for fd 10: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+bluedevil: Created
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+Installing the delayed initialization callback.
+kf5.kded: found kded module "notificationhelper" by prepending 'kded_' to the library path, please fix your metadata.
+kf5.kded: found kded module "kwrited" by prepending 'kded_' to the library path, please fix your metadata.
+kf5.kded: found kded module "touchpad" by prepending 'kded_' to the library path, please fix your metadata.
+Delayed initialization.
+Reloading the khotkeys configuration
+ksmserver: Starting notification thread
+ksmserver: Kcminit phase 2 done
+completeShutdownOrCheckpoint called
+completeShutdownOrCheckpoint called
+Version 2 File!
+SHO QKeySequence("")
+SHO QObject(0x0)
+SHO QKeySequence("Ctrl+Alt+I")
+SHO QObject(0x0)
+SHO QKeySequence("Ctrl+Alt+H")
+SHO QObject(0x0)
+SHO QKeySequence("Ctrl+Alt+T")
+SHO QObject(0x0)
+SHO QKeySequence("Ctrl+W")
+SHO QObject(0x0)
+SHO QKeySequence("Ctrl+Alt+W")
+SHO QObject(0x0)
+SHO QKeySequence("Ctrl+Alt+B")
+SHO QObject(0x0)
+SHO QKeySequence("Meta+E")
+SHO QObject(0x0)
+SHO QKeySequence("Print")
+SHO QObject(0x0)
+SHO QKeySequence("Shift+Print")
+SHO QObject(0x0)
+SHO QKeySequence("Meta+Print")
+SHO QObject(0x0)
+true
+kdeinit5: Got EXEC_NEW '/usr/bin/VBoxClient-all' from launcher.
+kdeinit5: preparing to launch '/usr/bin/VBoxClient-all'
+Imported file "/usr/share/khotkeys/defaults.khotkeys"
+Imported file "/usr/share/khotkeys/kde32b1.khotkeys"
+Imported file "/usr/share/khotkeys/spectacle.khotkeys"
+Imported file "/usr/share/khotkeys/konqueror_gestures_kde321.khotkeys"
+bluedevil: ObexManager operational changed false
+bluedevil: Bluetooth operational changed false
+Registering "org.kde.StatusNotifierItem-1402-1/StatusNotifierItem" to system tray
+"ETMCalendar"
+executing akonadi_control
+ksmserver: Autostart 2 done
+kdeinit5: PID 1424 terminated.
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+""
+Akonadi server is already starting up
+Akonadi server is already starting up
+log_kidentitymanagement: IdentityManager: There was no default identity. Marking first one as default.
+org.kde.akonadi.ETM: GEN true false true
+org.kde.akonadi.ETM: collection: QVector()
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.6AqDzL/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.6AqDzL/akonadiserver.socket"
+Socket error occurred: "QLocalSocket::connectToServer: Invalid name"
+Socket error occurred: "QLocalSocket::connectToServer: Invalid name"
+kdeinit5: PID 1398 terminated.
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+QMetaProperty::read: Unable to handle unregistered datatype 'KWayland::Server::SurfaceInterface*' for property 'KWin::Toplevel::surface'
+bluedevil: ObexManager operational changed true
+bluedevil: ObexAgent registered
+search paths:  ("/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games", "/snap/bin", "/usr/sbin", "/usr/local/sbin", "/usr/local/libexec", "/usr/libexec", "/opt/mysql/libexec", "/opt/local/lib/mysql5/bin", "/opt/mysql/sbin")
+Found mysql_install_db:  "/usr/bin/mysql_install_db"
+Found mysqlcheck:  "/usr/bin/mysqlcheck"
+org.kde.baloo: "/home/rodriguezlarreta"
+Could not resolve property : radialGradient4782
+Could not resolve property : radialGradient4857
+Could not resolve property : radialGradient4883
+Could not resolve property : radialGradient4885
+Power state changed
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:444:5: QML Text: Cannot anchor to a null item.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Registering "org.kde.StatusNotifierHost-1386" as system tray
+Known plasmoid ids: QHash(("org.kde.kdeconnect", 11)("org.kde.ktp-contactlist", 17)("org.kde.plasma.devicenotifier", 13)("org.kde.plasma.clipboard", 14)("org.kde.discovernotifier", 9)("org.kde.plasma.notifications", 12)("org.kde.plasma.printmanager", 10)("org.kde.plasma.battery", 16)("org.kde.plasma.volume", 15)("org.kde.plasma.networkmanagement", 18))
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: Permiso denegado
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: Permiso denegado
+should recheck... QProcess(0x91c9c60) 0
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+libkcups: Create-Printer-Subscriptions last error: 0 successful-ok
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: Get-Jobs last error: 0 successful-ok
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+Notifications service registered
+XSync seems available and ready
+XSync Inited
+Supported, init completed
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1928, resource id: 20971551, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+org.kde.plasma: unversioned plugin detected, may result in instability
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+org.kde.plasma.pulseaudio: Attempting connection to PulseAudio sound daemon
+org.kde.plasma.pulseaudio: QHash((263, "Muted")(257, "Index")(258, "PulseObject")(259, "ObjectName")(268, "CardIndex")(269, "Ports")(270, "ActivePortIndex")(264, "HasVolume")(265, "VolumeWritable")(266, "Name")(267, "Description")(260, "Index")(261, "Properties")(262, "Volume"))
+org.kde.plasma.pulseaudio: QHash((263, "Muted")(257, "Index")(258, "PulseObject")(259, "ObjectName")(268, "CardIndex")(269, "Ports")(270, "ActivePortIndex")(264, "HasVolume")(265, "VolumeWritable")(266, "Name")(267, "Description")(260, "Index")(261, "Properties")(262, "Volume"))
+file:///usr/lib/i386-linux-gnu/qt5/qml/org/kde/plasma/extras/ScrollArea.qml:48: Error: Cannot assign to non-existent property "interactive"
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/ScrollView.qml:286: TypeError: Cannot read property '__wheelScrollLines' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:66: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:65: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:64: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:63: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:114: TypeError: Cannot read property 'corner' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollBar.qml:91: TypeError: Cannot read property of null
+QDBusConnection: name 'org.kde.kdeconnect' had owner '' but we thought it was ':1.31'
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+libkcups: 0
+libkcups: 0
+akonadi.collectionattributetable                   OK
+akonadi.collectionmimetyperelation                 OK
+akonadi.collectionpimitemrelation                  OK
+akonadi.collectiontable                            OK
+akonadi.flagtable                                  OK
+akonadi.mimetypetable                              OK
+akonadi.parttable                                  OK
+akonadi.parttypetable                              OK
+akonadi.pimitemflagrelation                        OK
+akonadi.pimitemtable                               OK
+akonadi.pimitemtagrelation                         OK
+akonadi.relationtable                              OK
+akonadi.relationtypetable                          OK
+akonadi.resourcetable                              OK
+akonadi.schemaversiontable                         OK
+akonadi.tagattributetable                          OK
+akonadi.tagremoteidresourcerelationtable           OK
+akonadi.tagtable                                   OK
+akonadi.tagtypetable                               OK
+mysql.columns_priv                                 OK
+mysql.db                                           OK
+mysql.engine_cost                                  OK
+mysql.event                                        OK
+mysql.func                                         OK
+mysql.general_log                                  OK
+mysql.gtid_executed                                OK
+mysql.help_category                                OK
+mysql.help_keyword                                 OK
+mysql.help_relation                                OK
+mysql.help_topic                                   OK
+mysql.innodb_index_stats                           OK
+mysql.innodb_table_stats                           OK
+mysql.ndb_binlog_index                             OK
+mysql.plugin                                       OK
+mysql.proc                                         OK
+mysql.procs_priv                                   OK
+mysql.proxies_priv                                 OK
+mysql.server_cost                                  OK
+mysql.servers                                      OK
+mysql.slave_master_info                            OK
+mysql.slave_relay_log_info                         OK
+mysql.slave_worker_info                            OK
+mysql.slow_log                                     OK
+mysql.tables_priv                                  OK
+mysql.time_zone                                    OK
+mysql.time_zone_leap_second                        OK
+mysql.time_zone_name                               OK
+mysql.time_zone_transition                         OK
+mysql.time_zone_transition_type                    OK
+mysql.user                                         OK
+sys.sys_config                                     OK
+MySQL version OK (required "5.1" , available "5.7" )
+ST : DBus service  "org.kde.Solid.PowerManagement" appeared. Loading  "org.kde.plasma.battery"
+org.kde.plasma: unversioned plugin detected, may result in instability
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+Database "akonadi" opened using driver "QMYSQL"
+DbInitializer::run()
+checking table  "SchemaVersionTable"
+checking table  "ResourceTable"
+checking table  "CollectionTable"
+checking table  "MimeTypeTable"
+checking table  "PimItemTable"
+checking table  "FlagTable"
+checking table  "PartTypeTable"
+checking table  "PartTable"
+checking table  "CollectionAttributeTable"
+checking table  "TagTypeTable"
+checking table  "TagTable"
+checking table  "TagAttributeTable"
+checking table  "TagRemoteIdResourceRelationTable"
+checking table  "RelationTypeTable"
+checking table  "RelationTable"
+checking table  "PimItemFlagRelation"
+checking table  "PimItemTagRelation"
+checking table  "CollectionMimeTypeRelation"
+checking table  "CollectionPimItemRelation"
+DbInitializer::run() done
+skipping update 2
+skipping update 3
+skipping update 4
+skipping update 8
+skipping update 10
+skipping update 12
+skipping update 13
+skipping update 14
+skipping update 15
+skipping update 16
+skipping update 17
+skipping update 18
+skipping update 19
+skipping update 20
+skipping update 21
+skipping update 22
+skipping update 23
+skipping update 24
+skipping update 25
+skipping update 26
+skipping update 28
+skipping update 30
+skipping update 31
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value max:  0
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value max:  0
+Both point size and pixel size set. Using pixel size.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+ST : DBus service  "org.freedesktop.Telepathy.MissionControl5" appeared. Loading  "org.kde.ktp-contactlist"
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+Plasma Shell startup completed
+org.kde.plasma.pulseaudio: state callback
+ST : DBus service  "org.freedesktop.NetworkManager" appeared. Loading  "org.kde.plasma.networkmanagement"
+org.kde.plasma: unversioned plugin detected, may result in instability
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+Indexes successfully created
+search paths:  ("lib/i386-linux-gnu", "lib/i386-linux-gnu/qt5/plugins/", "lib/i386-linux-gnu/kf5/", "lib/i386-linux-gnu/kf5/plugins/", "/usr/lib/qt5/plugins/", "/usr/lib/i386-linux-gnu/qt5/plugins", "/usr/bin")
+SEARCH MANAGER: searching in  "lib/i386-linux-gnu/akonadi" : ()
+SEARCH MANAGER: searching in  "lib/i386-linux-gnu/qt5/plugins//akonadi" : ()
+SEARCH MANAGER: searching in  "lib/i386-linux-gnu/kf5//akonadi" : ()
+SEARCH MANAGER: searching in  "lib/i386-linux-gnu/kf5/plugins//akonadi" : ()
+SEARCH MANAGER: searching in  "/usr/lib/qt5/plugins//akonadi" : ()
+SEARCH MANAGER: searching in  "/usr/lib/i386-linux-gnu/qt5/plugins/akonadi" : ()
+SEARCH MANAGER: searching in  "/usr/bin/akonadi" : ()
+DataStore::unhideAllPimItems()
+Search loop is waiting, will wake again in 4294967295 ms
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+Akonadi server is already starting up
+PLUGINS:  "/usr/share/akonadi/agents"
+PLUGINS:  ("akonadibalooindexingagent.desktop", "akonotesresource.desktop", "archivemailagent.desktop", "birthdaysresource.desktop", "contactsresource.desktop", "davgroupwareresource.desktop", "followupreminder.desktop", "googlecalendarresource.desktop", "googlecontactsresource.desktop", "icaldirresource.desktop", "icalresource.desktop", "imapresource.desktop", "invitationsagent.desktop", "kalarmdirresource.desktop", "kalarmresource.desktop", "kolabresource.desktop", "maildirresource.desktop", "maildispatcheragent.desktop", "mailfilteragent.desktop", "mboxresource.desktop", "migrationagent.desktop", "mixedmaildirresource.desktop", "newmailnotifieragent.desktop", "notesagent.desktop", "notesresource.desktop", "openxchangeresource.desktop", "pop3resource.desktop", "sendlateragent.desktop", "vcarddirresource.desktop", "vcardresource.desktop")
+search paths:  ("/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games", "/snap/bin")
+PLUGINS inserting:  "akonadi_baloo_indexer" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_akonotes_resource" 1 ("Resource", "Notes")
+PLUGINS inserting:  "akonadi_archivemail_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_birthdays_resource" 0 ("Resource", "Unique")
+PLUGINS inserting:  "akonadi_contacts_resource" 1 ("Resource")
+PLUGINS inserting:  "akonadi_davgroupware_resource" 0 ("Resource", "FreeBusyProvider")
+PLUGINS inserting:  "akonadi_followupreminder_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_googlecalendar_resource" 0 ("Resource", "FreeBusyProvider")
+PLUGINS inserting:  "akonadi_googlecontacts_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_icaldir_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_ical_resource" 1 ("Resource")
+PLUGINS inserting:  "akonadi_imap_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_invitations_agent" 0 ("NoConfig")
+PLUGINS inserting:  "akonadi_kalarm_dir_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_kalarm_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_kolab_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_maildir_resource" 1 ("Resource")
+PLUGINS inserting:  "akonadi_maildispatcher_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_mailfilter_agent" 0 ("Unique", "Autostart", "NoConfig")
+PLUGINS inserting:  "akonadi_mbox_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_migration_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_mixedmaildir_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_newmailnotifier_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_notes_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_notes_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_openxchange_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_pop3_resource" 0 ("Resource", "NeedsNetwork")
+PLUGINS inserting:  "akonadi_sendlater_agent" 0 ("Unique", "Autostart")
+PLUGINS inserting:  "akonadi_vcarddir_resource" 0 ("Resource")
+PLUGINS inserting:  "akonadi_vcard_resource" 0 ("Resource")
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Metered"
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Metered"
+ktp-common-internals: Current presence changed
+ktp-common-internals: Current presence changed
+org.kde.plasma.pulseaudio: state callback
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.plasma.pulseaudio: state callback
+org.kde.plasma.pulseaudio: ready
+"akonadi_birthdays_resource"
+"akonadi_contacts_resource_0"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+"akonadi_followupreminder_agent"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Akonadi server is already starting up
+"akonadi_akonotes_resource_0"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Akonadi server is already starting up
+Database "akonadi" opened using driver "QMYSQL"
+"akonadi_maildispatcher_agent"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+akonadi_baloo_indexer(1527)/libakonadi Akonadi::AgentManagerPrivate::createDBusInterface: AgentManager failed to get a valid AgentManager DBus interface. Error is: 1 "org.freedesktop.DBus.Error.NameHasNoOwner" "Could not get owner of name 'org.freedesktop.Akonadi.Control': no such name" 
+"akonadi_ical_resource_0"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+localListDone:  false  deliveryDone:  true
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Akonadi server is already starting up
+Database "akonadi" opened using driver "QMYSQL"
+"akonadi_maildir_resource_0"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+localListDone:  true  deliveryDone:  true
+Nothing to do
+"akonadi_migration_agent"
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+Akonadi server is already starting up
+"akonadi_newmailnotifier_agent"
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Akonadi server is already starting up
+Akonadi server is already starting up
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Akonadi server is already starting up
+Database "akonadi" opened using driver "QMYSQL"
+Akonadi server is now operational.
+"No file selected."
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_maildir_resource_0_1539_jM5Hy0" false
+"/subscriber/akonadi_maildir_resource_0_1539_jM5Hy0"
+Connected to "Akonadi" , using protocol version 52
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Database "akonadi" opened using driver "QMYSQL"
+Server says: "Not Really IMAP server"
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_maildispatcher_agent_1549_GUMtZq" false
+"/subscriber/akonadi_maildispatcher_agent_1549_GUMtZq"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_maildispatcher_agent_1549_ujBHi2" false
+"/subscriber/akonadi_maildispatcher_agent_1549_ujBHi2"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_maildispatcher_agent_1549_jmOpuX" false
+"/subscriber/akonadi_maildispatcher_agent_1549_jmOpuX"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Database "akonadi" opened using driver "QMYSQL"
+localListDone:  false  deliveryDone:  true
+============== SESSION: Server state changed to  2
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+============== SESSION: Server state changed to  2
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "korgac_1402_Yunjvk" false
+"/subscriber/korgac_1402_Yunjvk"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_akonotes_resource_0_1525_R66oNc" false
+"/subscriber/akonadi_akonotes_resource_0_1525_R66oNc"
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_followupreminder_agent_1531_9uIHvJ" false
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_contacts_resource_0_1529_QX3qkK" false
+"/subscriber/akonadi_contacts_resource_0_1529_QX3qkK"
+============== SESSION: Server state changed to  2
+"/subscriber/akonadi_followupreminder_agent_1531_9uIHvJ"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_birthdays_resource_1528_JjlAly" false
+log_kidentitymanagement: IdentityManager: There was no default identity. Marking first one as default.
+"/subscriber/akonadi_birthdays_resource_1528_JjlAly"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_birthdays_resource_1528_63IXSg" false
+"/subscriber/akonadi_birthdays_resource_1528_63IXSg"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_akonotes_resource_0_1525_R66oNc"
+New notification bus: "/subscriber/akonadi_contacts_resource_0_1529_QX3qkK"
+New notification bus: "/subscriber/akonadi_followupreminder_agent_1531_9uIHvJ"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_birthdays_resource_1528_63IXSg"
+New notification bus: "/subscriber/akonadi_birthdays_resource_1528_JjlAly"
+QDBusConnection: name 'org.freedesktop.Akonadi.Control' had owner '' but we thought it was ':1.28'
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_migration_agent_1563_Y4CwQq" false
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_ical_resource_0_1534_cGoxfh" false
+"/subscriber/akonadi_ical_resource_0_1534_cGoxfh"
+"/subscriber/akonadi_migration_agent_1563_Y4CwQq"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Database "akonadi" opened using driver "QMYSQL"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_migration_agent_1563_Y4CwQq"
+New notification bus: "/subscriber/akonadi_ical_resource_0_1534_cGoxfh"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_maildir_resource_0_1539_jM5Hy0"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_maildispatcher_agent_1549_jmOpuX"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_maildispatcher_agent_1549_ujBHi2"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_maildispatcher_agent_1549_GUMtZq"
+Read defaultResourceId "akonadi_maildir_resource_0" from config.
+Found resource "akonadi_maildir_resource_0"
+QDBusConnection: name 'org.freedesktop.Akonadi.Control' had owner '' but we thought it was ':1.28'
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+============== SESSION: Server state changed to  2
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_newmailnotifier_agent_1564_e0QMCA" false
+"/subscriber/akonadi_newmailnotifier_agent_1564_e0QMCA"
+Database "akonadi" opened using driver "QMYSQL"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_newmailnotifier_agent_1564_e0QMCA"
+()
+org.kde.akonadi.ETM: GEN true false true
+org.kde.akonadi.ETM: collection: QVector()
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+done
+Database "akonadi" opened using driver "QMYSQL"
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/korgac_1402_Yunjvk"
+Database "akonadi" opened using driver "QMYSQL"
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+qml:  totalCountChanged 1
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+localListDone:  true  deliveryDone:  true
+Nothing to do
+Fetched 3 collections.
+Fetched root collection 4 and 3 local folders (total 3 collections).
+resourceId "akonadi_maildir_resource_0"
+All done! Comitting.
+org.kde.akonadi.ETM: Subtree:  2 QSet(2)
+Emitting changed for "akonadi_maildir_resource_0"
+Emitting defaultFoldersChanged.
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.akonadi.ETM: collection: "Cumpleaños y aniversarios"
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.akonadi.ETM: Subtree:  8 QSet(8)
+org.kde.akonadi.ETM: collection: "akonadi_ical_resource_0"
+org.kde.akonadi.ETM: Fetch job took  538 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 2
+org.kde.akonadi.ETM: first fetched collection: "Cumpleaños y aniversarios"
+qml:  totalCountChanged 0
+kscreen.kded: Change detected
+org.kde.akonadi.ETM: Fetch job took  53 msec
+org.kde.akonadi.ETM: was item fetch job: items: 0
+Currrent active notifications: QHash()
+Guessing partOf as: 0
+ New Notification:  "Mantenimiento PIM: terminado" "" 6000 & Part of: 0
+org.kde.akonadi.ETM: Fetch job took  77 msec
+org.kde.akonadi.ETM: was item fetch job: items: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+"akonadi_notes_agent"
+"akonadi_sendlater_agent"
+Cannot resume a timer that is not paused.
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+"akonadi_archivemail_agent"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+"akonadi_mailfilter_agent"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_notes_agent_1566_9AGgqB" false
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_sendlater_agent_1568_uQDSVD" false
+"/subscriber/akonadi_notes_agent_1566_9AGgqB"
+"/subscriber/akonadi_sendlater_agent_1568_uQDSVD"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_archivemail_agent_1526_zrd2i3" false
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_mailfilter_agent_1551_RSHRZ9" false
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+"/subscriber/akonadi_archivemail_agent_1526_zrd2i3"
+"/subscriber/akonadi_mailfilter_agent_1551_RSHRZ9"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+BluezQt: PendingCall Error: "Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken."
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_sendlater_agent_1568_uQDSVD"
+Database "akonadi" opened using driver "QMYSQL"
+"KNotes Session"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_notes_agent_1566_Z1n3Dg" false
+"/subscriber/akonadi_notes_agent_1566_Z1n3Dg"
+log_kidentitymanagement: IdentityManager: There was no default identity. Marking first one as default.
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+log_kidentitymanagement: IdentityManager: There was no default identity. Marking first one as default.
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+org.kde.akonadi.ETM: GEN true false true
+org.kde.akonadi.ETM: collection: QVector()
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_notes_agent_1566_9AGgqB"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_notes_agent_1566_Z1n3Dg"
+Database "akonadi" opened using driver "QMYSQL"
+org.kde.akonadi.ETM: Subtree:  10 QSet(10)
+org.kde.akonadi.ETM: collection: "Notas"
+org.kde.akonadi.ETM: Fetch job took  34 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 1
+org.kde.akonadi.ETM: first fetched collection: "Notas"
+localListDone:  false  deliveryDone:  true
+localListDone:  true  deliveryDone:  true
+Nothing to do
+org.kde.akonadi.ETM: Fetch job took  8 msec
+org.kde.akonadi.ETM: was item fetch job: items: 0
+Cannot resume a timer that is not paused.
+"MailFilter Kernel ETM"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_mailfilter_agent_1551_wJdWtg" false
+"/subscriber/akonadi_mailfilter_agent_1551_wJdWtg"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Couldn't find node shadow. Skipping rendering.
+"Archive Mail Kernel ETM"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_archivemail_agent_1526_otxbdf" false
+"/subscriber/akonadi_archivemail_agent_1526_otxbdf"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_archivemail_agent_1526_g4viZk" false
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+"/subscriber/akonadi_archivemail_agent_1526_g4viZk"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_mailfilter_agent_1551_cgTYLk" false
+"/subscriber/akonadi_mailfilter_agent_1551_cgTYLk"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+org.kde.akonadi.ETM: GEN true false false
+org.kde.akonadi.ETM: collection: QVector()
+org.kde.akonadi.ETM: 
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+New notification bus: "/subscriber/akonadi_mailfilter_agent_1551_RSHRZ9"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_mailfilter_agent_1551_wJdWtg"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_mailfilter_agent_1551_cgTYLk"
+QDBusObjectPath Akonadi::Server::NotificationManager::subscribe(const QString&, bool) Akonadi::Server::NotificationManager(0x8fe41e8) "akonadi_mailfilter_agent_1551_espWbi" false
+Connected to "Akonadi" , using protocol version 52
+"/subscriber/akonadi_mailfilter_agent_1551_espWbi"
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+org.kde.akonadi.ETM: GEN true false false
+org.kde.akonadi.ETM: collection: QVector()
+org.kde.akonadi.ETM: 
+Connected to "Akonadi" , using protocol version 52
+connectToServer "/tmp/akonadi-rodriguezlarreta.Qw5R95/akonadiserver.socket"
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+org.kde.akonadi.ETM: Subtree:  4 QSet(7, 4, 5)
+org.kde.akonadi.ETM: Fetch job took  83 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 3
+org.kde.akonadi.ETM: first fetched collection: "Carpetas locales"
+Connected to "Akonadi" , using protocol version 52
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_archivemail_agent_1526_zrd2i3"
+Server says: "Not Really IMAP server"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+Database "akonadi" opened using driver "QMYSQL"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_archivemail_agent_1526_otxbdf"
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_archivemail_agent_1526_g4viZk"
+Connected to "Akonadi" , using protocol version 52
+Server says: "Not Really IMAP server"
+org.kde.akonadi.ETM: collection: QVector()
+org.kde.akonadi.ETM: Fetch job took  107 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 6
+org.kde.akonadi.ETM: first fetched collection: "Search"
+org.kde.akonadi.ETM: Fetch job took  2 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 0
+Database "akonadi" opened using driver "QMYSQL"
+New notification bus: "/subscriber/akonadi_mailfilter_agent_1551_espWbi"
+org.kde.akonadi.ETM: Subtree:  4 QSet(4, 5, 7)
+org.kde.akonadi.ETM: Fetch job took  202 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 3
+org.kde.akonadi.ETM: first fetched collection: "Carpetas locales"
+org.kde.akonadi.ETM: collection: QVector()
+org.kde.akonadi.ETM: Fetch job took  204 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 6
+org.kde.akonadi.ETM: first fetched collection: "Search"
+org.kde.akonadi.ETM: Fetch job took  2 msec
+org.kde.akonadi.ETM: was collection fetch job: collections: 0
+Couldn't find node arrow-down. Skipping rendering.
+Couldn't find node arrow-up. Skipping rendering.
+Couldn't find node arrow-right. Skipping rendering.
+Couldn't find node arrow-left. Skipping rendering.
+org.kde.kurifilter-shorturi: "k0"
+org.kde.kurifilter-shorturi: path = "k0"  isLocalFullPath= false  exists= false  url= QUrl("k0")
+org.kde.kurifilter-shorturi: "k"
+org.kde.kurifilter-shorturi: path = "k"  isLocalFullPath= false  exists= false  url= QUrl("k")
+org.kde.kurifilter-shorturi: "ko"
+org.kde.kurifilter-shorturi: path = "ko"  isLocalFullPath= false  exists= false  url= QUrl("ko")
+kdeinit5: Got EXT_EXEC '/usr/bin/konsole' from launcher.
+kdeinit5: preparing to launch '/usr/bin/konsole'
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 12763, resource id: 104857602, major code: 18 (ChangeProperty), minor code: 0
+QCoreApplication::arguments: Please instantiate the QApplication object first
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kdeinit5: PID 1684 terminated.
+pci id for fd 8: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+no winId: probably startup task
+ApportEvent :: hidden= false apport-kde= true apport-gtk= false
+Using ApportEvent
+""
+foundCrashFile false foundAutoUpload false
+KDE Languages: ()
+("es_AR.UTF-8", "es", "_AR", "AR", ".UTF-8", "UTF-8", "", "")
+System Language Matchables: ("es_AR", "es")
+"/var/crash"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+WARNING: Not running as root, cannot process reports which are not owned by uid 1000
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kdeinit5: PID 1756 terminated.
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+powerdevil: Screen brightness value:  0
+Created alarm 31457288
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 17342, resource id: 33554440, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value:  0
+powerdevil: Can't contact ck
+lock called
+pci id for fd 27: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+Lock window Id:  46137350
+Created alarm 46137353
+CreateNotify: 46137350
+CreateNotify: 46137352
+CreateNotify: 33554435
+CreateNotify: 33554441
+CreateNotify: 33554445
+CreateNotify: 33554446
+CreateNotify: 33554447
+MapNotify: 33554446
+MapNotify: 46137350
+CreateNotify: 33554450
+powerdevil: Kbd backlight brightness value:  0
+powerdevil: Screen brightness value:  0
+Created alarm 31457290
+powerdevil: Screen brightness value:  0
+UnmapNotify: 33554446
+UnmapNotify: 33554446
+CreateNotify: 33554460
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 57376, resource id: 33554460, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+Grab Released
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+should recheck... QProcess(0x91c9c60) 0
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: Permiso denegado
+()
+("/home/rodriguezlarreta/Readme.md")
+()
+log_kioremote: RemoteDirNotify::FilesChanged
+log_kioremote: RemoteDirNotify::toRemoteURL( QUrl("file:///home/rodriguezlarreta/Readme.md") )
+log_kioremote: result => KUrl()
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+powerdevil: Screen brightness value:  0
+Created alarm 31457291
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value:  0
+powerdevil: Can't contact ck
+lock called
+Lock window Id:  46137357
+Created alarm 46137359
+CreateNotify: 46137357
+CreateNotify: 33554435
+CreateNotify: 33554441
+CreateNotify: 33554445
+CreateNotify: 33554446
+CreateNotify: 33554447
+MapNotify: 33554446
+MapNotify: 46137357
+CreateNotify: 33554450
+UnmapNotify: 33554446
+UnmapNotify: 33554446
+CreateNotify: 33554456
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42281, resource id: 33554456, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+Grab Released
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+org.kde.kurifilter-ikws: "git config --global user.name \"Your Name\""
+org.kde.kurifilter-ikws: Keywords Engine: Loading config...
+org.kde.kurifilter-ikws: Web Shortcuts Enabled:  true
+org.kde.kurifilter-ikws: Default Shortcut:  ""
+org.kde.kurifilter-ikws: Keyword Delimiter:  :
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+kf5.kded: could not find kded module with id "favicons"
+kf5.kded: attempted to load an invalid module.
+org.kde.baloo: "/home/rodriguezlarreta/.gitconfig.lock" -> "/home/rodriguezlarreta/.gitconfig"
+org.kde.baloo: Moved without data
+org.kde.baloo: "/home/rodriguezlarreta/.gitconfig.lock" -> "/home/rodriguezlarreta/.gitconfig"
+org.kde.baloo: Moved without data
+org.kde.baloo: "/home/rodriguezlarreta/.gitconfig.lock" -> "/home/rodriguezlarreta/.gitconfig"
+org.kde.baloo: Moved without data
+org.kde.baloo: "/home/rodriguezlarreta/.gitconfig.lock" -> "/home/rodriguezlarreta/.gitconfig"
+org.kde.baloo: Moved without data
+org.kde.baloo: "/home/rodriguezlarreta/.gitconfig.lock" -> "/home/rodriguezlarreta/.gitconfig"
+org.kde.baloo: Moved without data
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Requesting missing EDID for outputs (63)
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Requesting missing EDID for outputs (63)
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+powerdevil: Screen brightness value:  0
+Created alarm 31457292
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value:  0
+powerdevil: Can't contact ck
+lock called
+Lock window Id:  46137363
+Created alarm 46137365
+CreateNotify: 46137363
+CreateNotify: 33554435
+CreateNotify: 33554441
+CreateNotify: 33554445
+CreateNotify: 33554446
+CreateNotify: 33554447
+MapNotify: 33554446
+MapNotify: 46137363
+CreateNotify: 33554450
+powerdevil: Kbd backlight brightness value:  0
+libkcups: Renew-Subscription last error: 0 successful-ok
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+Unknown toplevel for ConfigureNotify
+CreateNotify: 39884028
+MapNotify: 39884028
+CreateNotify: 39884029
+MapNotify: 39884029
+UnmapNotify: 39880739
+UnmapNotify: 39880738
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Requesting missing EDID for outputs (63)
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Requesting missing EDID for outputs (63)
+kscreen.kded: Change detected
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+UnmapNotify: 33554446
+UnmapNotify: 33554446
+CreateNotify: 33554464
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 49876, resource id: 33554464, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+Grab Released
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+should recheck... QProcess(0x91c9c60) 0
+trying to show an empty dialog
+Application::crashHandler() called with signal 11; recent crashes: 1
+KCrash: crashing... crashRecursionCounter = 2
+KCrash: Application Name = plasmashell path = /usr/bin pid = 1386
+KCrash: Arguments: /usr/bin/plasmashell --shut-up 
+KCrash: Attempting to start /usr/lib/i386-linux-gnu/libexec/drkonqi from kdeinit
+kdeinit5: Got EXEC_NEW '/usr/lib/i386-linux-gnu/libexec/drkonqi' from wrapper.
+kdeinit5: preparing to launch '/usr/lib/i386-linux-gnu/libexec/drkonqi'
+Service  "org.kde.StatusNotifierHost-1386" unregistered
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.knotifications: env says KDE is running but SNI unavailable -- check KDE_FULL_SESSION and XDG_CURRENT_DESKTOP
+kscreen.kded: Change detected
+pci id for fd 10: 80ee:beef, driver (null)
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+found lsb_release
+Using /proc to determine executable path
+Executable is: "/usr/bin/plasmashell"
+Executable exists: true
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+Enabling drkonqi crash catching
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+org.kde.plasma: unversioned plugin detected, may result in instability
+Invalid pixmap specified.
+No frame loaded
+No frame loaded
+No frame loaded
+No frame loaded
+No frame loaded
+No frame loaded
+org.kde.plasma: unversioned plugin detected, may result in instability
+pci id for fd 8: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+Sending SIGSTOP to process
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 28384, resource id: 58720275, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 28428, resource id: 58720293, major code: 15 (QueryTree), minor code: 0
+Could not resolve property : radialGradient4782
+Could not resolve property : radialGradient4857
+Could not resolve property : radialGradient4883
+Could not resolve property : radialGradient4885
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/main.qml:37: TypeError: Cannot read property 'DateTime' of undefined
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.digitalclock/contents/ui/DigitalClock.qml:444:5: QML Text: Cannot anchor to a null item.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Registering "org.kde.StatusNotifierHost-5525" as system tray
+Known plasmoid ids: QHash(("org.kde.plasma.battery", 16)("org.kde.plasma.clipboard", 14)("org.kde.plasma.printmanager", 10)("org.kde.plasma.networkmanagement", 18)("org.kde.discovernotifier", 9)("org.kde.ktp-contactlist", 17)("org.kde.kdeconnect", 11)("org.kde.plasma.devicenotifier", 13)("org.kde.plasma.notifications", 12)("org.kde.plasma.volume", 15))
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: Permiso denegado
+QInotifyFileSystemWatcherEngine::addPaths: inotify_add_watch failed: Permiso denegado
+should recheck... QProcess(0xa64e178) 0
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: Create-Printer-Subscriptions last error: 0 successful-ok
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+Notifications service registered
+XSync seems available and ready
+XSync Inited
+Supported, init completed
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Button.qml:96: TypeError: Cannot read property of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Button.qml:96: TypeError: Cannot read property of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/ScrollView.qml:286: TypeError: Cannot read property '__wheelScrollLines' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:66: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:65: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:64: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:63: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:114: TypeError: Cannot read property 'corner' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollBar.qml:91: TypeError: Cannot read property of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollBar.qml:91: TypeError: Cannot read property of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Styles/Plasma/ToolButtonStyle.qml:37: TypeError: Cannot read property 'flat' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Styles/Plasma/ToolButtonStyle.qml:38: TypeError: Cannot read property 'hovered' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Styles/Plasma/ToolButtonStyle.qml:124: TypeError: Cannot read property 'text' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Styles/Base/ButtonStyle.qml:83: TypeError: Cannot read property 'menu' of null
+Sending SIGCONT to process
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 32347, resource id: 37748749, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kdeinit5: PID 5526 terminated.
+kscreen.kded: Change detected
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Button.qml:96: TypeError: Cannot read property of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Button.qml:96: TypeError: Cannot read property of null
+kdeinit5: PID 1386 terminated.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+org.kde.plasma: unversioned plugin detected, may result in instability
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.clipboard/contents/ui/clipboard.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+org.kde.plasma.pulseaudio: Attempting connection to PulseAudio sound daemon
+org.kde.plasma.pulseaudio: QHash((270, "ActivePortIndex")(257, "Index")(258, "PulseObject")(259, "ObjectName")(260, "Index")(261, "Properties")(262, "Volume")(263, "Muted")(264, "HasVolume")(265, "VolumeWritable")(266, "Name")(267, "Description")(268, "CardIndex")(269, "Ports"))
+org.kde.plasma.pulseaudio: QHash((270, "ActivePortIndex")(257, "Index")(258, "PulseObject")(259, "ObjectName")(260, "Index")(261, "Properties")(262, "Volume")(263, "Muted")(264, "HasVolume")(265, "VolumeWritable")(266, "Name")(267, "Description")(268, "CardIndex")(269, "Ports"))
+file:///usr/lib/i386-linux-gnu/qt5/qml/org/kde/plasma/extras/ScrollArea.qml:48: Error: Cannot assign to non-existent property "interactive"
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/ScrollView.qml:286: TypeError: Cannot read property '__wheelScrollLines' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:66: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:65: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:64: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:63: TypeError: Cannot read property 'padding' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollViewHelper.qml:114: TypeError: Cannot read property 'corner' of null
+file:///usr/lib/i386-linux-gnu/qt5/qml/QtQuick/Controls/Private/ScrollBar.qml:91: TypeError: Cannot read property of null
+<Unknown File>: QML QQuickLayoutAttached: Binding loop detected for property "preferredWidth"
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+Both point size and pixel size set. Using pixel size.
+libkcups: 0
+libkcups: 0
+Plasma Shell startup completed
+org.kde.plasma.pulseaudio: state callback
+ST : DBus service  "org.kde.Solid.PowerManagement" appeared. Loading  "org.kde.plasma.battery"
+org.kde.plasma: unversioned plugin detected, may result in instability
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.volume/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value max:  0
+powerdevil: Screen brightness value:  0
+powerdevil: Screen brightness value max:  0
+Both point size and pixel size set. Using pixel size.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.systemtray/contents/ui/TaskDelegate.qml:156: TypeError: Cannot read property 'taskItem' of undefined
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.battery/contents/ui/batterymonitor.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+ST : DBus service  "org.freedesktop.Telepathy.MissionControl5" appeared. Loading  "org.kde.ktp-contactlist"
+org.kde.plasma: unversioned plugin detected, may result in instability
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+ST : DBus service  "org.freedesktop.NetworkManager" appeared. Loading  "org.kde.plasma.networkmanagement"
+org.kde.plasma: unversioned plugin detected, may result in instability
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.ktp-contactlist/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+<Unknown File>: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Metered"
+org.kde.plasma.pulseaudio: state callback
+ktp-common-internals: Current presence changed
+ktp-common-internals: Current presence changed
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+org.kde.plasma.pulseaudio: state callback
+org.kde.plasma.pulseaudio: ready
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml: QML Plasmoid: Cannot anchor to an item that isn't a parent or sibling.
+powerdevil: Screen brightness value:  0
+Created alarm 31457293
+powerdevil: Screen brightness value:  0

@@ -1,0 +1,286 @@
+2016-08-18T14:36:36.430663Z 0 [Warning] --bootstrap is deprecated. Please consider using --initialize instead
+2016-08-18T14:36:36.499834Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-08-18T14:36:36.526155Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-08-18T14:36:36.526245Z 0 [Note] Ignoring --secure-file-priv value as server is running with --initialize(-insecure) or --bootstrap.
+2016-08-18T14:36:36.527290Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.11-0ubuntu6) starting as process 1255 ...
+2016-08-18T14:36:36.854558Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-08-18T14:36:36.854596Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-08-18T14:36:36.854602Z 0 [Note] InnoDB: Uses event mutexes
+2016-08-18T14:36:36.854611Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-08-18T14:36:36.854617Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-08-18T14:36:36.854623Z 0 [Note] InnoDB: Using Linux native AIO
+2016-08-18T14:36:36.879779Z 0 [Note] InnoDB: Number of pools: 1
+2016-08-18T14:36:36.931983Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-08-18T14:36:37.028334Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-08-18T14:36:37.095951Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-08-18T14:36:37.097069Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-08-18T14:36:37.107070Z 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2016-08-18T14:36:37.107263Z 0 [Note] InnoDB: Setting file './ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-08-18T14:36:37.262969Z 0 [Note] InnoDB: File './ibdata1' size is now 12 MB.
+2016-08-18T14:36:37.263435Z 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 64 MB
+2016-08-18T14:36:38.071619Z 0 [Note] InnoDB: Setting log file ./ib_logfile1 size to 64 MB
+2016-08-18T14:36:38.960791Z 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2016-08-18T14:36:38.960887Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2016-08-18T14:36:38.960920Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-08-18T14:36:38.960978Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-08-18T14:36:39.095642Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-08-18T14:36:39.095874Z 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2016-08-18T14:36:39.182664Z 0 [Note] InnoDB: Doublewrite buffer created
+2016-08-18T14:36:39.193831Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-08-18T14:36:39.193857Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-08-18T14:36:39.216380Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2016-08-18T14:36:39.264750Z 0 [Note] InnoDB: Foreign key constraint system tables created
+2016-08-18T14:36:39.264795Z 0 [Note] InnoDB: Creating tablespace and datafile system tables.
+2016-08-18T14:36:39.265027Z 0 [Note] InnoDB: Tablespace and datafile system tables created.
+2016-08-18T14:36:39.265043Z 0 [Note] InnoDB: Creating sys_virtual system tables.
+2016-08-18T14:36:39.265154Z 0 [Note] InnoDB: sys_virtual table created
+2016-08-18T14:36:39.265245Z 0 [Note] InnoDB: Waiting for purge to start
+2016-08-18T14:36:39.316280Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 0
+2016-08-18T14:36:39.339832Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-08-18T14:36:39.451251Z 0 [Note] Salting uuid generator variables, current_pid: 1255, server_start_time: 1471530996, bytes_sent: 0, 
+2016-08-18T14:36:39.456939Z 0 [Note] Generated uuid: '2c7dae5a-6551-11e6-b855-08002792182a', server_start_time: 1471532251, bytes_sent: 192578328
+2016-08-18T14:36:39.456987Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 2c7dae5a-6551-11e6-b855-08002792182a.
+2016-08-18T14:36:39.470698Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2016-08-18T14:36:46.980808Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2016-08-18T14:36:46.980855Z 0 [Note] Shutting down slave threads
+2016-08-18T14:36:46.980873Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2016-08-18T14:36:47.464220Z 0 [Note] Binlog end
+2016-08-18T14:36:47.464593Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2016-08-18T14:36:47.464687Z 0 [Note] InnoDB: Starting shutdown...
+2016-08-18T14:36:47.565674Z 0 [Note] InnoDB: Dumping buffer pool(s) to /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-08-18T14:36:47.565798Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 160818 11:36:47
+2016-08-18T14:36:49.824132Z 0 [Note] InnoDB: Shutdown completed; log sequence number 2493034
+2016-08-18T14:36:49.825781Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-08-18T14:36:50.176086Z 0 [Warning] The syntax '--log_warnings/-W' is deprecated and will be removed in a future release. Please use '--log_error_verbosity' instead.
+2016-08-18T14:36:50.176149Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-08-18T14:36:50.176159Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-08-18T14:36:50.176187Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2016-08-18T14:36:50.176210Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.11-0ubuntu6) starting as process 1297 ...
+2016-08-18T14:36:50.178695Z 0 [ERROR] Can't open shared library '/usr/lib/mysql/plugin/keyring_file.so' (errno: 2 /usr/lib/mysql/plugin/keyring_file.so: cannot open shared object file: No such file or directory)
+2016-08-18T14:36:50.178705Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.so'.
+2016-08-18T14:36:50.183299Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-08-18T14:36:50.183337Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-08-18T14:36:50.183344Z 0 [Note] InnoDB: Uses event mutexes
+2016-08-18T14:36:50.183350Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-08-18T14:36:50.183356Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-08-18T14:36:50.183362Z 0 [Note] InnoDB: Using Linux native AIO
+2016-08-18T14:36:50.183610Z 0 [Note] InnoDB: Number of pools: 1
+2016-08-18T14:36:50.183700Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-08-18T14:36:50.203180Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-08-18T14:36:50.217729Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-08-18T14:36:50.218864Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-08-18T14:36:50.231296Z 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 64 MB
+2016-08-18T14:36:50.482209Z 0 [Note] InnoDB: Setting log file ./ib_logfile1 size to 64 MB
+2016-08-18T14:36:51.479224Z 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2016-08-18T14:36:51.479322Z 0 [Warning] InnoDB: New log files created, LSN=2493034
+2016-08-18T14:36:51.479634Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-08-18T14:36:51.502475Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2493452
+2016-08-18T14:36:51.502500Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2493461
+2016-08-18T14:36:51.502877Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2493461
+2016-08-18T14:36:51.502896Z 0 [Note] InnoDB: Database was not shutdown normally!
+2016-08-18T14:36:51.502904Z 0 [Note] InnoDB: Starting crash recovery.
+2016-08-18T14:36:51.678522Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-08-18T14:36:51.678610Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-08-18T14:36:51.878506Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-08-18T14:36:51.879444Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-08-18T14:36:51.879461Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-08-18T14:36:51.879642Z 0 [Note] InnoDB: Waiting for purge to start
+2016-08-18T14:36:51.930370Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 2493461
+2016-08-18T14:36:51.930562Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-08-18T14:36:51.932727Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-08-18T14:36:51.932889Z 0 [Note] InnoDB: Loading buffer pool(s) from /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-08-18T14:36:51.986489Z 0 [Note] InnoDB: Buffer pool(s) load completed at 160818 11:36:51
+2016-08-18T14:36:52.019351Z 0 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.7.11-0ubuntu6'  socket: '/tmp/akonadi-rodriguezlarreta.18tHgY/mysql.socket'  port: 0  (Ubuntu)
+2016-08-25T12:24:45.548035Z 0 [Warning] The syntax '--log_warnings/-W' is deprecated and will be removed in a future release. Please use '--log_error_verbosity' instead.
+2016-08-25T12:24:45.548135Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-08-25T12:24:45.599299Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-08-25T12:24:45.599373Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2016-08-25T12:24:45.700477Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.11-0ubuntu6) starting as process 1280 ...
+2016-08-25T12:24:48.700108Z 0 [ERROR] Can't open shared library '/usr/lib/mysql/plugin/keyring_file.so' (errno: 2 /usr/lib/mysql/plugin/keyring_file.so: cannot open shared object file: No such file or directory)
+2016-08-25T12:24:48.700144Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.so'.
+2016-08-25T12:24:49.646779Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-08-25T12:24:49.646818Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-08-25T12:24:49.646826Z 0 [Note] InnoDB: Uses event mutexes
+2016-08-25T12:24:49.646834Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-08-25T12:24:49.646841Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-08-25T12:24:49.646849Z 0 [Note] InnoDB: Using Linux native AIO
+2016-08-25T12:24:50.358209Z 0 [Note] InnoDB: Number of pools: 1
+2016-08-25T12:24:50.571209Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-08-25T12:24:50.611230Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-08-25T12:24:50.852308Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-08-25T12:24:50.855191Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-08-25T12:24:51.682470Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-08-25T12:24:51.900275Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2874840
+2016-08-25T12:24:51.900323Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2874849
+2016-08-25T12:24:51.901089Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2874849
+2016-08-25T12:24:51.901120Z 0 [Note] InnoDB: Database was not shutdown normally!
+2016-08-25T12:24:51.901134Z 0 [Note] InnoDB: Starting crash recovery.
+2016-08-25T12:25:03.718443Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-08-25T12:25:03.718497Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-08-25T12:25:03.718598Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-08-25T12:25:04.282799Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-08-25T12:25:04.285681Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-08-25T12:25:04.285718Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-08-25T12:25:04.287745Z 0 [Note] InnoDB: Waiting for purge to start
+2016-08-25T12:25:04.344146Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 2874849
+2016-08-25T12:25:04.344340Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-08-25T12:25:04.344551Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 13489ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2016-08-25T12:25:04.344696Z 0 [Note] InnoDB: Loading buffer pool(s) from /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-08-25T12:25:05.925449Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-08-25T12:25:06.679752Z 0 [Note] InnoDB: Buffer pool(s) load completed at 160825  9:25:06
+2016-08-25T12:25:12.583619Z 0 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.7.11-0ubuntu6'  socket: '/tmp/akonadi-rodriguezlarreta.dnxl72/mysql.socket'  port: 0  (Ubuntu)
+2016-08-25T12:30:32.215710Z 0 [Warning] The syntax '--log_warnings/-W' is deprecated and will be removed in a future release. Please use '--log_error_verbosity' instead.
+2016-08-25T12:30:32.215811Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-08-25T12:30:32.233697Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-08-25T12:30:32.233769Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2016-08-25T12:30:32.311408Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.11-0ubuntu6) starting as process 1226 ...
+2016-08-25T12:30:33.369084Z 0 [ERROR] Can't open shared library '/usr/lib/mysql/plugin/keyring_file.so' (errno: 2 /usr/lib/mysql/plugin/keyring_file.so: cannot open shared object file: No such file or directory)
+2016-08-25T12:30:33.369121Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.so'.
+2016-08-25T12:30:33.657669Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-08-25T12:30:33.657712Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-08-25T12:30:33.657720Z 0 [Note] InnoDB: Uses event mutexes
+2016-08-25T12:30:33.657728Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-08-25T12:30:33.657735Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-08-25T12:30:33.657746Z 0 [Note] InnoDB: Using Linux native AIO
+2016-08-25T12:30:33.743016Z 0 [Note] InnoDB: Number of pools: 1
+2016-08-25T12:30:33.807517Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-08-25T12:30:33.844423Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-08-25T12:30:33.982014Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-08-25T12:30:33.984372Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-08-25T12:30:34.319346Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-08-25T12:30:34.545279Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2874912
+2016-08-25T12:30:34.545328Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2874921
+2016-08-25T12:30:34.546216Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2874921
+2016-08-25T12:30:34.546246Z 0 [Note] InnoDB: Database was not shutdown normally!
+2016-08-25T12:30:34.546260Z 0 [Note] InnoDB: Starting crash recovery.
+2016-08-25T12:30:41.048791Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-08-25T12:30:41.049097Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-08-25T12:30:41.049410Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-08-25T12:30:42.023578Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-08-25T12:30:42.026137Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-08-25T12:30:42.026177Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-08-25T12:30:42.026542Z 0 [Note] InnoDB: Waiting for purge to start
+2016-08-25T12:30:42.076863Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 2874921
+2016-08-25T12:30:42.077078Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-08-25T12:30:42.077322Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 8093ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2016-08-25T12:30:42.078036Z 0 [Note] InnoDB: Loading buffer pool(s) from /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-08-25T12:30:43.480585Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-08-25T12:30:45.458554Z 0 [Note] InnoDB: Buffer pool(s) load completed at 160825  9:30:45
+2016-08-25T12:30:49.137816Z 0 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.7.11-0ubuntu6'  socket: '/tmp/akonadi-rodriguezlarreta.GHoud3/mysql.socket'  port: 0  (Ubuntu)
+2016-08-25T14:03:29.640368Z 0 [Warning] The syntax '--log_warnings/-W' is deprecated and will be removed in a future release. Please use '--log_error_verbosity' instead.
+2016-08-25T14:03:29.640466Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-08-25T14:03:29.650004Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-08-25T14:03:29.650082Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2016-08-25T14:03:29.652115Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.11-0ubuntu6) starting as process 1357 ...
+2016-08-25T14:03:30.059171Z 0 [ERROR] Can't open shared library '/usr/lib/mysql/plugin/keyring_file.so' (errno: 2 /usr/lib/mysql/plugin/keyring_file.so: cannot open shared object file: No such file or directory)
+2016-08-25T14:03:30.059214Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.so'.
+2016-08-25T14:03:30.105943Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-08-25T14:03:30.105981Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-08-25T14:03:30.105989Z 0 [Note] InnoDB: Uses event mutexes
+2016-08-25T14:03:30.105996Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-08-25T14:03:30.106002Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-08-25T14:03:30.106009Z 0 [Note] InnoDB: Using Linux native AIO
+2016-08-25T14:03:30.166397Z 0 [Note] InnoDB: Number of pools: 1
+2016-08-25T14:03:30.204344Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-08-25T14:03:30.237319Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-08-25T14:03:30.325098Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-08-25T14:03:30.326382Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-08-25T14:03:30.491909Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-08-25T14:03:30.542739Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2874959
+2016-08-25T14:03:30.542775Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2874968
+2016-08-25T14:03:30.543300Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2874968
+2016-08-25T14:03:30.543329Z 0 [Note] InnoDB: Database was not shutdown normally!
+2016-08-25T14:03:30.543337Z 0 [Note] InnoDB: Starting crash recovery.
+2016-08-25T14:03:33.886577Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-08-25T14:03:33.886609Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-08-25T14:03:33.886660Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-08-25T14:03:34.558694Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-08-25T14:03:34.560742Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-08-25T14:03:34.560781Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-08-25T14:03:34.561674Z 0 [Note] InnoDB: Waiting for purge to start
+2016-08-25T14:03:34.612177Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 2874968
+2016-08-25T14:03:34.612407Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-08-25T14:03:34.612600Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 4286ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2016-08-25T14:03:34.612756Z 0 [Note] InnoDB: Loading buffer pool(s) from /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-08-25T14:03:35.422326Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-08-25T14:03:36.195033Z 0 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.7.11-0ubuntu6'  socket: '/tmp/akonadi-rodriguezlarreta.8rv42e/mysql.socket'  port: 0  (Ubuntu)
+2016-08-25T14:03:36.226733Z 0 [Note] InnoDB: Buffer pool(s) load completed at 160825 11:03:36
+2016-09-01T13:19:21.626528Z 0 [Warning] The syntax '--log_warnings/-W' is deprecated and will be removed in a future release. Please use '--log_error_verbosity' instead.
+2016-09-01T13:19:21.626626Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-09-01T13:19:21.661166Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-09-01T13:19:21.661297Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2016-09-01T13:19:21.719675Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.11-0ubuntu6) starting as process 1611 ...
+2016-09-01T13:19:22.726069Z 0 [ERROR] Can't open shared library '/usr/lib/mysql/plugin/keyring_file.so' (errno: 2 /usr/lib/mysql/plugin/keyring_file.so: cannot open shared object file: No such file or directory)
+2016-09-01T13:19:22.726097Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.so'.
+2016-09-01T13:19:22.875674Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-09-01T13:19:22.875720Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-09-01T13:19:22.875729Z 0 [Note] InnoDB: Uses event mutexes
+2016-09-01T13:19:22.875737Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-09-01T13:19:22.875747Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-09-01T13:19:22.875756Z 0 [Note] InnoDB: Using Linux native AIO
+2016-09-01T13:19:22.975431Z 0 [Note] InnoDB: Number of pools: 1
+2016-09-01T13:19:23.094463Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-09-01T13:19:23.569750Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-09-01T13:19:23.712405Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-09-01T13:19:23.714363Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-09-01T13:19:24.378125Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-09-01T13:19:24.493033Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2875006
+2016-09-01T13:19:24.493073Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2875015
+2016-09-01T13:19:24.493545Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2875015
+2016-09-01T13:19:24.493621Z 0 [Note] InnoDB: Database was not shutdown normally!
+2016-09-01T13:19:24.493634Z 0 [Note] InnoDB: Starting crash recovery.
+2016-09-01T13:19:31.066092Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-09-01T13:19:31.066129Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-09-01T13:19:31.066188Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-09-01T13:19:32.837675Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-09-01T13:19:32.953404Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-09-01T13:19:32.953446Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-09-01T13:19:33.193996Z 0 [Note] InnoDB: Waiting for purge to start
+2016-09-01T13:19:33.273199Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 9559ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2016-09-01T13:19:33.273366Z 0 [Note] InnoDB: 5.7.11 started; log sequence number 2875015
+2016-09-01T13:19:33.273565Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-09-01T13:19:33.273835Z 0 [Note] InnoDB: Loading buffer pool(s) from /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-09-01T13:19:34.999707Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-09-01T13:19:35.615788Z 0 [Note] InnoDB: Buffer pool(s) load completed at 160901 10:19:35
+2016-09-01T13:19:35.761099Z 0 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.7.11-0ubuntu6'  socket: '/tmp/akonadi-rodriguezlarreta.gLWOeQ/mysql.socket'  port: 0  (Ubuntu)
+2016-09-01T14:00:25.506382Z 0 [Warning] The syntax '--log_warnings/-W' is deprecated and will be removed in a future release. Please use '--log_error_verbosity' instead.
+2016-09-01T14:00:25.506484Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-09-01T14:00:25.520354Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2016-09-01T14:00:25.520425Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2016-09-01T14:00:25.529191Z 0 [Note] /usr/sbin/mysqld (mysqld 5.7.13-0ubuntu0.16.04.2) starting as process 1351 ...
+2016-09-01T14:00:26.135145Z 0 [Note] InnoDB: PUNCH HOLE support available
+2016-09-01T14:00:26.135189Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-09-01T14:00:26.135197Z 0 [Note] InnoDB: Uses event mutexes
+2016-09-01T14:00:26.135206Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-09-01T14:00:26.135214Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2016-09-01T14:00:26.135222Z 0 [Note] InnoDB: Using Linux native AIO
+2016-09-01T14:00:26.251375Z 0 [Note] InnoDB: Number of pools: 1
+2016-09-01T14:00:26.401929Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2016-09-01T14:00:26.405176Z 0 [Note] InnoDB: Initializing buffer pool, total size = 80M, instances = 1, chunk size = 80M
+2016-09-01T14:00:26.538390Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-09-01T14:00:26.545838Z 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2016-09-01T14:00:27.035202Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-09-01T14:00:27.128376Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2875062
+2016-09-01T14:00:27.128411Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2875071
+2016-09-01T14:00:27.128914Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2875071
+2016-09-01T14:00:27.128942Z 0 [Note] InnoDB: Database was not shutdown normally!
+2016-09-01T14:00:27.128949Z 0 [Note] InnoDB: Starting crash recovery.
+2016-09-01T14:00:30.055544Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-09-01T14:00:30.055587Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-09-01T14:00:30.055664Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-09-01T14:00:30.389866Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-09-01T14:00:30.390997Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-09-01T14:00:30.391033Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-09-01T14:00:30.394072Z 0 [Note] InnoDB: Waiting for purge to start
+2016-09-01T14:00:30.444298Z 0 [Note] InnoDB: 5.7.13 started; log sequence number 2875071
+2016-09-01T14:00:30.444552Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-09-01T14:00:30.445448Z 0 [Note] InnoDB: Loading buffer pool(s) from /home/rodriguezlarreta/.local/share/akonadi/db_data/ib_buffer_pool
+2016-09-01T14:00:30.957830Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-09-01T14:00:31.498293Z 0 [Note] InnoDB: Buffer pool(s) load completed at 160901 11:00:31
+2016-09-01T14:00:33.497897Z 0 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.7.13-0ubuntu0.16.04.2'  socket: '/tmp/akonadi-rodriguezlarreta.6AqDzL/mysql.socket'  port: 0  (Ubuntu)
