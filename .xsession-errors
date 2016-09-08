@@ -1522,3 +1522,41 @@ file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/
 powerdevil: Screen brightness value:  0
 Created alarm 31457293
 powerdevil: Screen brightness value:  0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+libkcups: Get-Jobs last error: 0 successful-ok
+libkcups: 0
+powerdevil: Screen brightness value:  0
+Created alarm 31457294
+powerdevil: Screen brightness value:  0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 53088, resource id: 104857669, major code: 18 (ChangeProperty), minor code: 0
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
+org.kde.kurifilter-shorturi: "k"
+org.kde.kurifilter-shorturi: path = "k"  isLocalFullPath= false  exists= false  url= QUrl("k")
+org.kde.kurifilter-shorturi: "ko"
+org.kde.kurifilter-shorturi: path = "ko"  isLocalFullPath= false  exists= false  url= QUrl("ko")
+org.kde.kurifilter-shorturi: "kon"
+org.kde.kurifilter-shorturi: path = "kon"  isLocalFullPath= false  exists= false  url= QUrl("kon")
+kdeinit5: Got EXT_EXEC '/usr/bin/konsole' from launcher.
+kdeinit5: preparing to launch '/usr/bin/konsole'
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 58226, resource id: 58720258, major code: 18 (ChangeProperty), minor code: 0
+QCoreApplication::arguments: Please instantiate the QApplication object first
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kdeinit5: PID 5635 terminated.
+pci id for fd 8: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+no winId: probably startup task
