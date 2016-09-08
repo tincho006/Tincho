@@ -1560,3 +1560,19 @@ pci id for fd 8: 80ee:beef, driver (null)
 libGL error: core dri or dri2 extension not found
 libGL error: failed to load driver: vboxvideo
 no winId: probably startup task
+()
+("/home/rodriguezlarreta/tp_2/hghjgjhgjh")
+()
+log_kioremote: RemoteDirNotify::FilesChanged
+log_kioremote: RemoteDirNotify::toRemoteURL( QUrl("file:///home/rodriguezlarreta/tp_2/hghjgjhgjh") )
+log_kioremote: result => KUrl()
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Change detected
+kscreen: Primary output changed from KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" ) to KScreen::Output(Id: 63 , Name: "VGA-0" ) ( "VGA-0" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Calculating config ID for KScreen::Config(0x9c85490)
+kscreen.kded: 	Part of the Id:  "VGA-0"
+kscreen.kded: 	Config ID: "dce7fa9c45163416602a7a5710206214"
+kscreen.kded: Config saved on:  "/home/rodriguezlarreta/.local/share/kscreen/dce7fa9c45163416602a7a5710206214"
